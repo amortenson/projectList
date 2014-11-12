@@ -40,7 +40,7 @@ A web app proven by a crack team of German scientists to predict the user's idea
   * 6/login/mortenson_liao
  * regexp
   * Aaron Mortenson, Mark Norwich
-	* 6/regexp/aaron_mark
+  * 6/regexp/aaron_mark
  * intro-proj 1
   * Aaron Mortenson, Matthew Cook
   * 6/intro-proj1/mortenson_cook
