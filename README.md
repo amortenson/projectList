@@ -26,8 +26,15 @@ Daniel Zabari
 A basic blog/forum service that alows creation of new categories, topics, and comments. Supports BBCode.
 #### https://github.com/trunkatedpig/EricEricAaronBlog.git
 
-## Mini Projects
+### API
+#### Team members
+Anya Hargil
+Aaron Mortenson
+#### Description
+A web app proven by a crack team of German scientists to predict the user's ideal food.
+#### https://github.com/trunkatedpig/APIProject.git
 
+## Mini Projects
  * login
   * Aaron Mortenson, Eric Liao
   * 6/login/mortenson_liao
