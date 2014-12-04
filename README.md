@@ -35,6 +35,12 @@ A web app proven by a crack team of German scientists to predict the user's idea
 #### https://github.com/trunkatedpig/APIProject.git
 
 ## Mini Projects
+ * Invisible Cow
+  * Aaron Mortenson, Eric Liao
+  * 6/login/Aaron_Eric
+ * todo
+  * Aaron Mortenson
+  * 6/todo/aaron_mortenson
  * login
   * Aaron Mortenson, Eric Liao
   * 6/login/mortenson_liao
