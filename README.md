@@ -6,6 +6,16 @@ Period 6
 
 ## Main Projects
 
+### EscalatorHaus
+#### Team members
+Andrew Fischer
+Aaron Mortenson
+Daniel Zabari
+Philipp Steinmann
+#### Description
+A project to track the sorking status of Stuyvesant's many notoriously unreliable escalators
+#### https://github.com/Zabari/EscalatorHaus.git
+
 ### Web Search
 #### Team members
 Eric Chen
